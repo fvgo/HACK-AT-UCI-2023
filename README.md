@@ -19,7 +19,9 @@ Regardless of if they are able to get a sticker or not, users are given the opti
 For more information about Petr Run, check out devpost and video demo!
 
 Hackathon Devpost: https://devpost.com/software/petr-run 
+
 Video Demo: https://youtu.be/Lx_wif4zEBQ?feature=shared
 
 Contributors: Muniza Ahmed, Francine Go, Victor Chhun
+
 Original Repo: https://github.com/munizaa/HACK-AT-UCI-2023
